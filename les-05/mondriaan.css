@@ -1,0 +1,34 @@
+body{
+    margin: 0;
+    background-image:url('mc-01.jpg');
+}
+
+main{
+    width: 600px;
+    height: 400px;
+    background: black;
+}
+
+.vierkant{
+    float:left;
+}
+
+#vierkant1{
+    height: 400px;
+    width: 200px;
+    background: yellow;
+}
+
+#vierkant2{
+    height:400px;
+    width:244px;
+    background:white;
+    margin-left: 8px;
+}
+
+#vierkant3{
+    height: 400px;
+    width: 140px;
+    margin-left: 8px;
+    background: red;
+}
