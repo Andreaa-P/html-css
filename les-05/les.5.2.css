@@ -4,8 +4,8 @@ body{
 }
 
 main{
-    width: 600px;
-    height: 1200px;
+    width: 632px;
+    height: 800px;
     background: black;
 }
 
@@ -14,42 +14,73 @@ main{
 }
 
 #vierkant1{
-    height: 400px;
+    height: 217px;
     width: 200px;
     background: rgb(255, 0, 0);
-}
-
-#vierkant2{
-    height:400px;
-    width:250px;
-    background:white;
     margin-left: 8px;
+    margin-top: 8px;
+}
+#vierkant2{
+    height: 217px;
+    width: 200px;
+    background-color:yellow;
+    margin-left: 8px;
+    margin-top: 8px;
+    
 }
 
 #vierkant3{
-    height: 400px;
-    width: 140px;
+    height: 217px;
+    width: 200px;
+    background-color:white;
     margin-left: 8px;
-    background:white;
+    margin-top: 8px;
 }
 
 #vierkant4{
-    height: 200px;
-    width: 180px;
+    height: 275px;
+    width: 306px;
+    background-color: white;
+    margin-top: 8px;
     margin-left: 8px;
-    background: white;
 }
 
 #vierkant5{
-    height: 200px;
-    width: 220px;
+    height: 275px;
+    width: 302px;
+    background-color: blue;
     margin-left: 8px;
-    background: blue;
+    margin-top: 8px;
 }
 
 #vierkant6{
-    height: 200px;
-    width: 180px;
+    height: 276px;
+    width: 250px;
+    background-color: white;
     margin-left: 8px;
-    background: red;
+    margin-top: 8px;
+}
+
+#vierkant7{
+    height: 134px;
+    width: 125px;
+    background-color: yellow;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#vierkant8{
+    height: 134px;
+    width: 224px;
+    background-color: white;
+    margin-left: 8px;
+    margin-top: 8px;
+}
+
+#vierkant9{
+    height: 134px;
+    width: 356px;
+    background-color: red;
+    margin-left: 8px;
+    margin-top: 8px;
 }
