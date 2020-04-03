@@ -1,0 +1,55 @@
+body{
+    margin: 0;
+    background-image:url('mc-01.jpg');
+}
+
+main{
+    width: 600px;
+    height: 1200px;
+    background: black;
+}
+
+.vierkant{
+    float:left;
+}
+
+#vierkant1{
+    height: 400px;
+    width: 200px;
+    background: rgb(255, 0, 0);
+}
+
+#vierkant2{
+    height:400px;
+    width:250px;
+    background:white;
+    margin-left: 8px;
+}
+
+#vierkant3{
+    height: 400px;
+    width: 140px;
+    margin-left: 8px;
+    background:white;
+}
+
+#vierkant4{
+    height: 200px;
+    width: 180px;
+    margin-left: 8px;
+    background: white;
+}
+
+#vierkant5{
+    height: 200px;
+    width: 220px;
+    margin-left: 8px;
+    background: blue;
+}
+
+#vierkant6{
+    height: 200px;
+    width: 180px;
+    margin-left: 8px;
+    background: red;
+}
