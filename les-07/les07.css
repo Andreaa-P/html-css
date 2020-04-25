@@ -1,0 +1,60 @@
+body {
+    background-color: #F6F4F2;
+    padding: 0;
+    margin: 0;
+    font-family: 'Quicksand', sans-serif;
+
+}
+
+header {
+    background-color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.image-center {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    height: 500px;
+}
+
+section {
+    padding-left: 200px;
+    padding-right: 200px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+h2 {
+    font-size: 42px;
+    letter-spacing: 1px;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-family: 'Lilita One', cursive;
+}
+
+#learned {
+    font-size: 18px;
+    padding-bottom: 75px;
+    padding-top: 75px;
+}
+
+#learn { 
+    background-color: #CEB599;
+    font-size: 18px;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    color: #252424;
+}
+
+#learn > h2 {
+    color: black;
+}
+
+#improve {
+    font-size: 18px;
+    padding-bottom: 75px;
+    padding-top: 75px;
+}
